@@ -1,0 +1,21 @@
+KSIX Controller Changes
+
+Mappings added:
+	Hotkey, %JoystickPrefix%9, LeftTrigger
+	Hotkey, %JoystickPrefix%10, RightTrigger
+
+x is replaced by y where 
+x -> y
+
+%JoystickPrefix%x
+JoystickPrefix . x
+
+3 -> 4
+4 -> 5
+5 -> 7
+6 -> 8
+
+7 -> 11
+8 -> 12
+9 -> 14
+10 -> 15
